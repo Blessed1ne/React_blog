@@ -1,0 +1,31 @@
+
+h1, #jumboSub{
+  color: Red;
+}
+
+#jumboBG{
+  background-image: url('https://i.ytimg.com/vi/rsxo7qElKok/maxresdefault.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:650px;
+
+}
+
+.nav-item {
+  font-family: inherit;
+  display: flex;
+  justify-content: center;
+  font-size: 25px
+
+}
+
+.display {
+  display: flex;
+  justify-content: center;
+}
+
+.lead {
+  display: flex;
+  justify-content: center;
+
+}
